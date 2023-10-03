@@ -32,7 +32,7 @@
   <!-- PROJECT DESCRIPTION -->
  <h2>Hello rails back end<a name="about-project"></a></h2>
 
-The Ruby on Rails Hello rails back end is an api backend that have endpoints of messages table that allow a cleint to fetch a random greetinf.
+The Ruby on Rails Hello rails back end is an api backend that have endpoints of fetching greetings from messages table that allow a cleint to fetch a random greeting. The front end repo for this backend is [Frontend] https://github.com/sylvester-wamaya/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
